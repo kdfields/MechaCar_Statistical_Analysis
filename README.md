@@ -48,7 +48,7 @@ The Lot 3 sample has a mean of 1496.14 and a p-value of 0.04168, which means the
 + Safety Rating (National Highway Traffic Safety Administration safety ratings)
 + Price (Manufacturers' Suggested Retail Price)
 
-These four metrics will compare MechaCar's prototype to five years worth of data for vehicles in the same class manufactured by Ford, GM, Toyota, Nissan, and Honda using the [Edmunds Vehicle API](https://edmundsapi-preprod.github.io/api-documentation/vehicle/)
+These four metrics will compare MechaCar's prototype to five years worth of publicly available data for vehicles in the same class manufactured by Ford, GM, Toyota, Nissan, and Honda using the [Edmunds Vehicle API.](https://edmundsapi-preprod.github.io/api-documentation/vehicle/)
 
 #### Hypothesis
 + Null Hypothesis: For cars in the same vehicle class, MechaCar **is priced correctly** based on the agreed-upon metrics (Fuel Efficiency, Yearly Maintenance Cost, and Safety Rating.
