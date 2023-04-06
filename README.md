@@ -9,7 +9,7 @@
 
 ## Summary Statistics on Suspension Coils
 
-The design specifications for the MechaCar suspension coils dictate that the variance of suspension coils must not exceed 100 PSI.  According to the Coil Summary, the total variance across all lots (62.3) is below that threshold.  However, when the Lot Summary is analyzed Lot3 (170.3) is above that threshold.  
+The design specifications for the MechaCar suspension coils dictate that the variance of suspension coils must not exceed 100 PSI.  According to the Coil Summary, the total variance across all lots (62.3) is below that threshold.  However, when the Lot Summary is analyzed Lot3 (170.3) is above the variance threshold of 100 PSI.  
 
 Coil Summary
 
